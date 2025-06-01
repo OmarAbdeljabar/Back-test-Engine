@@ -12,7 +12,7 @@ This Python script implements a comprehensive equity strategy backtesting platfo
     * Fundamental filters can use various SF1 dimensions (ARQ, MRY, ART, etc.) and evaluate actual values or growth rates (YoY, QoQ).
     * Allows AND/OR logic for combining filter criteria.
 * **Multi-Factor Modeling:**
-    * Supports custom factors including momentum (with optional skip-period) and derived ratios (e.g., `gp/assets`).
+    * Supports fundamental factors, momentum (with optional skip-period) and derived ratios (e.g., `gp/assets`).
     * Users can define factor weights, preferred direction (higher/lower is better), and calculation method (actual value, YoY growth, QoQ growth) for each factor.
     * Computes Z-scores and composite scores for stock ranking.
 * **Portfolio Construction:**
