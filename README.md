@@ -61,4 +61,4 @@ The application expects pre-processed financial data in Parquet format located i
 * Downloadable text summary of the strategy and key results.
 * All output files are saved to the `data/backtest_output/` directory.
 
-*This project is licensed under the MIT License - see the LICENSE file for details
+*This project is licensed under the MIT License 
